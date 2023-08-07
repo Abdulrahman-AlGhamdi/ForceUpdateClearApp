@@ -1,0 +1,3 @@
+include ':forceupdate'
+rootProject.name = "ForceUpdateClearApp"
+include ':application'

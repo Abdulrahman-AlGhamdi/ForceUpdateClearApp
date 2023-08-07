@@ -1,0 +1,24 @@
+<resources>
+    <!-- Force Update Activity Strings -->
+    <string name="forceupdate_update">Update</string>
+    <string name="forceupdate_install">Install</string>
+    <string name="forceupdate_dialog_confirm">OK</string>
+    <string name="forceupdate_canceled">Canceled</string>
+    <string name="forceupdate_new_update">New Update</string>
+    <string name="forceupdate_installing">Installing…</string>
+    <string name="forceupdate_downloading">Downloading… %1$d%%</string>
+    <string name="forceupdate_download_completed">Download completed</string>
+    <string name="forceupdate_current_version">Current Version: %s</string>
+    <string name="forceupdate_update_message">Dear user, a new %1$s update has been released.</string>
+    <string name="forceupdate_dialog_message">An error was encountered while checking your credentials.</string>
+    <string name="forceupdate_permission_message">In order to download and install the update, please allow %s application to have the permission to install packages.</string>
+    <string name="forceupdate_permission_ok">Grant Permission</string>
+
+    <!-- Download Messages -->
+    <string name="download_failed">Download Failed: %s</string>
+    <string name="download_canceled">Download Canceled</string>
+    <string name="download_wrong_link">Incorrect Link</string>
+
+    <!-- Install Messages -->
+    <string name="install_failed">Install Failed: file deleted</string>
+</resources>
