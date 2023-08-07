@@ -25,7 +25,7 @@
 <h3 align="center">Installation</h3>
 
 ![Minimum API level](https://img.shields.io/badge/API-23+-yellow)
-[![](https://jitpack.io/v/Abdulrahman-AlGhamdi/ForceUpdate.svg)](https://jitpack.io/#Abdulrahman-AlGhamdi/ForceUpdate)
+[![](https://jitpack.io/v/Abdulrahman-AlGhamdi/ForceUpdateClearApp.svg)](https://jitpack.io/#Abdulrahman-AlGhamdi/ForceUpdateClearApp)
 
 ```groovy
 allprojects {
@@ -36,7 +36,7 @@ allprojects {
 ```
 
 ```groovy
-implementation 'com.github.Abdulrahman-AlGhamdi:ForceUpdate:tag'
+implementation 'com.github.Abdulrahman-AlGhamdi:ForceUpdateClearApp:Tag'
 ```
 
 ##
